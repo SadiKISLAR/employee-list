@@ -1,6 +1,6 @@
 {
-  "homepages": "https://sadikislar.github.io/employee/",
-  "name": "employee",
+  "homepages": "https://sadikislar.github.io/employee-list/",
+  "name": "employee-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
